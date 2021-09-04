@@ -37,10 +37,10 @@
 ### 🏆 Features
 
 - [x] Listar os episódios;
-- [x] Acessar página com informações específicas acerca do episódio selecionado;
+- [x] Acessar página do episódio selecionado;
 - [x] Selecionar um episódio para reprodução;
 - [x] Exibir o tempo de reprodução atual e a duração do episódio;
-- [x] Controlar o tempo de reprodução por meio do slider;
+- [x] Controlar o tempo de reprodução por meio do componente slider;
 - [x] Pausar e reproduzir o episódio selecionado;
 - [x] Selecionar, por meio do player, o episódio anterior e o seguinte;
 - [x] Habilitar reprodução em loop; e
@@ -52,7 +52,7 @@
 
 Fala Dev, antes de iniciar seus testes e/ou contribuições na aplicação, é necessário ter duas coisas instaladas, a primeira é o nosso maravilhoso [GIT](https://git-scm.com) e a segunda, o [Node.js](https://nodejs.org/en/), além, é claro, de um bom editor de texto.
 
-Bom, tendo tudo isso pronto, podemos ir para o passo a passo de como rodar a aplicação
+Bom, tendo tudo isso pronto, podemos ir para o passo a passo de como rodar a aplicação.
 
 ### 🕹️ Rodando a aplicação
 
@@ -69,10 +69,10 @@ $ yarn add / npm install
 # Execute o servidor JSON, caso contrário a aplicação não funcionará
 $ yarn server
 
-# E, logo em seguida, a aplicação
+# Execute a aplicação
 $ yarn dev
 
-# Por fim, acesse <http://localhost:3000> para ver a aplicação no servidor local
+# E, por fim, acesse <http://localhost:3000> para ver a aplicação no servidor local
 ```
 
 <hr>
@@ -119,7 +119,7 @@ $ yarn dev
 ### 📚 README versions
 
 <p>
-    <a href="#">Portuguese (pt-br)</a> 
+    <a href="https://github.com/ThiagoBrito-Dev/Podcastr/blob/main/README.md">Portuguese (pt-br)</a> 
         |   
-    <a href="#">English (en-us)</a>
+    <a href="https://github.com/ThiagoBrito-Dev/Podcastr/blob/main/README-en.md">English (en-us)</a>
 </p>
