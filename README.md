@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./.github/podcastr.png" width="250px">
+    <img src="./.github/podcastr.png">
 </div>
 
 <h1 align="center">Podcastr</h1>
@@ -9,7 +9,6 @@
 </h3>
 
 <h4 align="center">
-    <a href="#-sobre-o-projeto">Sobre o projeto</a> •
     <a href="#-status">Status</a> •
     <a href="#-features">Features</a> • 
     <a href="#-pré-requisitos">Pré-requisitos<a> • 
@@ -19,8 +18,8 @@
 </h4>
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8257E5&style=for-the-badge&"/>
     <img src="https://img.shields.io/github/license/ThiagoBrito-Dev/Podcastr?color=8257E5&style=for-the-badge"/>
+    <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=8257E5&style=for-the-badge&"/>
     <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.5&color=8257E5&style=for-the-badge"/>
 </div>
 
