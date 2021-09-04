@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-    🎧 Aplicação ReactJS para exibição e reprodução dos episódios do podcast FalaDev
+    🎧 Aplicação React para exibição e reprodução dos episódios do podcast FalaDev
 </h3>
 
 <h4 align="center">
