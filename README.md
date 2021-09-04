@@ -11,7 +11,7 @@
 <h4 align="center">
     <a href="#-status">Status</a> •
     <a href="#-features">Features</a> • 
-    <a href="#-pré-requisitos">Pré-requisitos<a> • 
+    <a href="#%EF%B8%8F-pré-requisitos">Pré-requisitos<a> • 
     <a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
     <a href="#-autor">Autor</a> •
     <a href="#-readme-versions">README versions</a>
