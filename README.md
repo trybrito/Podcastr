@@ -1,8 +1,8 @@
+<h1 align="center">Podcastr</h1>
+
 <div align="center">
     <img src="./.github/podcastr.png">
 </div>
-
-<h1 align="center">Podcastr</h1>
 
 <h3 align="center">
     🎧 Aplicação ReactJS para exibição e reprodução dos episódios do podcast FalaDev
@@ -39,7 +39,7 @@
 - [x] Listar os episódios;
 - [x] Acessar página com informações específicas acerca do episódio selecionado;
 - [x] Selecionar um episódio para reprodução;
-- [x] Exibir o tempo de reprodução atual e o tamanho do episódio;
+- [x] Exibir o tempo de reprodução atual e a duração do episódio;
 - [x] Controlar o tempo de reprodução por meio do slider;
 - [x] Pausar e reproduzir o episódio selecionado;
 - [x] Selecionar, por meio do player, o episódio anterior e o seguinte;
