@@ -95,7 +95,7 @@ $ yarn dev
 ### 👨🏽‍🎓 Author
 
 <div align="center">
-    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px">
+    <img src="https://github.com/ThiagoBrito-Dev.png" width="275px" />
     <br />
     <a href="https://twitter.com/JamesRyBrito">
         <h3>
