@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <h1 align="center">Podcastr</h1>
+    <h1>Podcastr</h1>
     <img src="./.github/podcastr.png" />
     <h3>
       🎧 Aplicação React para exibição e reprodução dos episódios do podcast FalaDev
