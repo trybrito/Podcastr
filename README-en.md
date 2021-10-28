@@ -51,7 +51,7 @@
 
 Hey Dev, before starting your tests and / or contributions in the application, it is necessary to have two things installed, the first one is our wonderful GIT and the second, the [Node.js](https://nodejs.org/en/), in addition, of course, to a good text editor.
 
-Well, having everything installed, we can proceed to the step-by-step of how to run the application.
+Well, having everything installed, we can proceed to the step by step of how to run the application.
 
 ### 🕹️ Running the application
 
@@ -120,7 +120,7 @@ $ yarn dev
 ### 📚 README versions
 
 <div>
-  <a href="https://github.com/ThiagoBrito-Dev/Podcastr/blob/main/README.md">Portuguese (pt-br)</a> 
+  <a href="https://github.com/ThiagoBrito-Dev/Podcastr/blob/main/README.md">Portuguese (pt-br)</a>
   |
   <a href="https://github.com/ThiagoBrito-Dev/Podcastr/blob/main/README-en.md">English (en-us)</a>
 </div>
