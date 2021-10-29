@@ -81,7 +81,7 @@ $ yarn dev
 - [HTML](https://devdocs.io/html/)
 - [Sass](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [React](https://pt-br.reactjs.org/)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
 - [Axios](https://axios-http.com/)
