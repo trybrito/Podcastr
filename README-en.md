@@ -79,7 +79,6 @@ $ yarn dev
 ### 🔮 Applied technologies
 
 - [HTML](https://devdocs.io/html/)
-- [CSS](https://devdocs.io/css/)
 - [Sass](https://sass-lang.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
