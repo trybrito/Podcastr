@@ -60,10 +60,10 @@ Well, having everything installed, we can proceed to the step by step of how to 
 $ git clone <https://github.com/ThiagoBrito-Dev/Podcastr>
 
 # Access the project folder from the command terminal
-$ cd .../podcastr
+$ cd .../Podcastr
 
 # Install the package.json dependencies
-$ yarn add / npm install
+$ yarn / npm install
 
 # Run the JSON server, otherwise the application will not work
 $ yarn server
