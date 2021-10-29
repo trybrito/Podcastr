@@ -60,10 +60,10 @@ Bom, tendo tudo isso pronto, podemos ir para o passo a passo de como rodar a apl
 $ git clone <https://github.com/ThiagoBrito-Dev/Podcastr>
 
 # Acesse a pasta do projeto pelo terminal de comando
-$ cd .../podcastr
+$ cd .../Podcastr
 
 # Instale as dependências presentes no package.json
-$ yarn add / npm install
+$ yarn / npm install
 
 # Execute o servidor JSON, caso contrário a aplicação não funcionará
 $ yarn server
